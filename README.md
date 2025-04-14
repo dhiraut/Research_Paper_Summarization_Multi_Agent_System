@@ -4,6 +4,16 @@ This project is a **Streamlit-based AI summarizer** that extracts, analyzes, and
 
 ---
 
+## 🎬 Demonstration
+
+Watch a quick walkthrough of how the app is to be used on Hugging Face Spaces:
+
+[![Demonstration Video](https://img.youtube.com/vi/placeholder/0.jpg)](https://github.com/user-attachments/assets/a144319a-7f26-44cb-8cac-6c4a54ceb08a)
+
+📽️ [Click here to watch the demo](https://github.com/user-attachments/assets/a144319a-7f26-44cb-8cac-6c4a54ceb08a)
+
+---
+
 ## 🔧 Setup Instructions
 
 ### ▶️ Local Setup
@@ -78,9 +88,6 @@ Each logical module acts independently and communicates via function calls, allo
   3. The MP3 is returned to Streamlit and embedded in the UI.
 - **Limitations:** Requires internet access; not fully offline-compatible.
 
----
-## Demonstration
-[Demonstration on how to use.webm](https://github.com/user-attachments/assets/a144319a-7f26-44cb-8cac-6c4a54ceb08a)
 ---
 
 ## ⚠️ Limitations and Future Improvements
