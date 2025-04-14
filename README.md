@@ -6,11 +6,13 @@ This project is a **Streamlit-based AI summarizer** that extracts, analyzes, and
 
 ## 🎬 Demonstration
 
-Watch a quick walkthrough of how the app is to be used on Hugging Face Spaces:
+Watch a quick walkthrough of how to use the app on Hugging Face Spaces:
 
 [![Demonstration Video](https://img.youtube.com/vi/placeholder/0.jpg)](https://github.com/user-attachments/assets/a144319a-7f26-44cb-8cac-6c4a54ceb08a)
 
 📽️ [Click here to watch the demo](https://github.com/user-attachments/assets/a144319a-7f26-44cb-8cac-6c4a54ceb08a)
+
+🚀 **Try it live on Hugging Face Spaces:** [rbbist/Research_Paper_Summarization_Multi_Agent_System](https://huggingface.co/spaces/rbbist/Research_Paper_Summarization_Multi_Agent_System)
 
 ---
 
@@ -123,4 +125,3 @@ Each logical module acts independently and communicates via function calls, allo
 ## 🧠 Author Notes
 
 This project is intended as a prototype for research analysis via LLMs. It focuses on core logic, interpretability, and deployability within a lightweight, serverless container like Hugging Face Spaces.
-
