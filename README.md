@@ -8,9 +8,9 @@ This project is a **Streamlit-based AI summarizer** that extracts, analyzes, and
 
 Watch a quick walkthrough of how to use the app on Hugging Face Spaces:
 
-[![Demonstration Video](https://img.youtube.com/vi/placeholder/0.jpg)](https://github.com/user-attachments/assets/a144319a-7f26-44cb-8cac-6c4a54ceb08a)
+[![Demonstration Video](https://img.youtube.com/vi/placeholder/0.jpg)](https://github.com/user-attachments/assets/8b03e726-1e8c-417a-ae1d-bcc59e500893)
 
-🚀 **Try it live on Hugging Face Spaces:** [rbbist/Research_Paper_Summarization_Multi_Agent_System](https://huggingface.co/spaces/rbbist/Research_Paper_Summarization_Multi_Agent_System)
+🚀 **Try it live on Hugging Face Spaces:** [dhiraut/Research_Paper_Summarization_Multi_Agent_System](https://huggingface.co/spaces/dhiraut/Research_Paper_Summarization_Multi_Agent_System).
 
 ---
 
